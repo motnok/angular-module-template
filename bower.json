@@ -1,0 +1,17 @@
+ {
+  "name": "motnok-angular-module-template",
+  "version": "1.0.0",
+  "description": "Template for generating shareable angular directives and related angular stuff",
+  "authors": [
+    "Kristoffer Hansen <kriz@motnok.dk>"
+  ],
+  "main": "dest/motnok-angular-module-template.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

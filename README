@@ -1,0 +1,5 @@
+Simple template for modularization of angular components installable using `bower link` or `npm link` across multiple individual projects.
+
+Meant for private use.
+
+Grunt templates are based on https://github.com/ngbp/ngbp
